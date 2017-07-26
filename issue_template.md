@@ -1,4 +1,4 @@
-__As a user type, I want a goal so that benefit__
+As a user type, I want a goal so that benefit
 
 **Descriptive user story**
 
