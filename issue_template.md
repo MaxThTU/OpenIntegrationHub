@@ -1,24 +1,24 @@
-## USE CASE FORMAT - procedurally
-Actor: 
-Summary: 
+## USE CASE FORMAT - Procedurally
+Actor: ...<br>
+Summary: ...
 
 ### Basic Workflow
-1
-2 
-3
+1 ...<br>
+2 ...<br>
+3 ...
 
 ### Alternative Workflow
-2a
-3a
+2a ...<br>
+3a ...<br>
 
-## USER STORY FORMAT - narative
+## USER STORY FORMAT - Narrative
 As a [who], I want [what] so that [why]
 
 ### Acceptance criteria
-1)
-2)
+1 ...<br>
+2 ...
 
 ## Sub-Tasks
--[]
--[]
--[]
+- [ ] task 
+- [ ] task
+- [ ] task
