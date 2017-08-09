@@ -1,10 +1,24 @@
-As a [user type], I want [a goal] so that [benefit]
+## USE CASE FORMAT - procedurally
+Actor: 
+Summary: 
 
-**Descriptive user story**
+### Basic Workflow
+1
+2 
+3
 
+### Alternative Workflow
+2a
+3a
 
-**Acceptance criteria**
+## USER STORY FORMAT - narative
+As a [who], I want [what] so that [why]
 
+### Acceptance criteria
+1)
+2)
 
-**Sub-Tasks**<br>
-Please use the 'list' function to list all relating sub-tasks
+## Sub-Tasks
+-[]
+-[]
+-[]
